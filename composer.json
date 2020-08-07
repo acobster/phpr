@@ -1,0 +1,11 @@
+{
+    "name": "acobster/phpr",
+    "description": "A hacky af PHP REPL server",
+    "authors": [
+        {
+            "name": "Coby Tamayo",
+            "email": "ctamayo@sitecrafting.com"
+        }
+    ],
+    "require": {}
+}
